@@ -1,0 +1,15 @@
+build .../.../.../original_txt_os_files/view/fps.c
+build .../.../.../original_txt_os_files/view/fps.h
+build .../.../.../original_txt_os_files/view/emoji.c
+build .../.../.../original_txt_os_files/view/emoji.h
+build .../.../.../original_txt_os_files/controller/batterry.c
+build .../.../.../original_txt_os_files/controller/batterry.h
+build .../.../.../original_txt_os_files/view/view.c
+build .../.../.../original_txt_os_files/view/view.h
+build .../.../.../original_txt_os_files/ia.c
+build .../.../.../original_txt_os_files/bootloader.c
+build .../.../.../original_txt_os_files/shell16.asm
+build .../.../.../original_txt_os_files/bios.c
+build .../.../.../original_txt_os_files/controller/*.c
+build .../.../.../original_txt_os_files/view/*.c
+build .../.../.../original_txt_os_files/*/*.c
