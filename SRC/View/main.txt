@@ -6,3 +6,15 @@ drw @UI
 drw @MAIN
 *********
 [FILENAME].ui.txt = "import ui.*",*
+*********
+*********
+*********
+*********
+build .../.../.../original_txt_os_files/view/fps.c
+build .../.../.../original_txt_os_files/view/fps.h
+build .../.../.../original_txt_os_files/emoji.c
+build .../.../.../original_txt_os_files/emoji.h
+build .../.../.../original_txt_os_files/batterry.c
+build .../.../.../original_txt_os_files/batterry.h
+build .../.../.../original_txt_os_files/view.c
+build .../.../.../original_txt_os_files/view.h
