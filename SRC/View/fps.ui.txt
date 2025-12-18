@@ -1,0 +1,3 @@
+[FPS: 120]
+build .../.../.../original_txt_os/view/fps.c
+build .../.../.../original_txt_os/view/fps.h
