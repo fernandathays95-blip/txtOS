@@ -1,0 +1,8 @@
+VIEW_TEXT_MODE=n #depois se quiser trocar para sim coloque s
+************************************************************
+drw = "draw"; #não mude importante se não travava a interface quebra
+drw icon_* @PRINT_ICON
+drw @UI
+drw @MAIN
+*********
+[FILENAME].ui.txt = "import ui.*",*
